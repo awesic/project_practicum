@@ -8,3 +8,12 @@
 |Programming| 0|15|20|0|
 
 Pandoc
+
+mermaid js
+
+flowchart TD
+    A[Christmas] -->|Get money| B(Go shopping)
+    B --> C{Let me think}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
