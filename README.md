@@ -11,7 +11,7 @@ Pandoc
 
 mermaid js
 
-'''mermaid
+```mermaid
 
 flowchart TD
     A[Christmas] -->|Get money| B(Go shopping)
@@ -20,4 +20,4 @@ flowchart TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
 
-'''
+```
