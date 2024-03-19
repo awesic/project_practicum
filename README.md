@@ -16,7 +16,9 @@
 
 </details>
 
-## Матрица ответственности
+## Матрица заинтересованных лиц
+
+![matrix of interest](./matrix.jpg)
 
 <table>
     <tr>
